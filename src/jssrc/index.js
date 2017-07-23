@@ -32,7 +32,7 @@ import Vue from "vue";//
 //     components:{"me":me}//挂载组件,myname就是组件名称
 // });
 
-import userlogin from "./../componets/user-login.vue";
+import userlogin from "../componets/user-login.vue";
 
 new Vue({
     el:".container",
